@@ -1,8 +1,12 @@
 ## Welcome to the Jungle! You entered to the PabloXantini's Profile
 
-## Stadistics
-[![Pablo Xantini's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloXantini&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloXantini&theme=chartreuse-dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+Hi! I'm Pablo Santini (a.k.a PabloXantini), enthusiast of computer graphics, software engineering and intelligent systems
+
+### Things about me
+- Self-taught
+- Lover of mathematics
+- Interested on how computer and systems works
+- Casually, i develop videogames using my own tools
 
 <!--
 **PabloXantini/PabloXantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
